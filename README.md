@@ -1,5 +1,5 @@
 Encriptador
-Proyecto de Encriptador, echo para el curso de Oracle Next Education 2022.
+Proyecto de Encriptador, echo para el curso de Oracle Next Education 2022/2023.
 
 Instrucciones:
 Vamos a trabajar en una aplicación que encripta textos, así podrás intercambiar mensajes secretos con otras personas que sepan el secreto de la encriptación utilizada.
